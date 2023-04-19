@@ -168,6 +168,8 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
   font-family: Richard Hamilton;
+  color:#fff;
+  font-size:15px;
 }
 
 abbr[title] {
